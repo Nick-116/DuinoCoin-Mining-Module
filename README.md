@@ -1,6 +1,6 @@
 # DuinoCoin Mining Module X4
 
-<img src="https://github.com/nick-116/duinocoin-mining-module/pictures/pcb.png" width="40%">
+<img src="https://github.com/Nick-116/DuinoCoin-Mining-Module/blob/main/pictures/pcb.png" width="40%">
 
 The Duino Mining Module X4 is a breakout board for ESP32 Dev boards, which can be used to mine the cryptocurrency DuinoCoin. This project was made for a friend who mines the coin and wanted a better solution than having wires hanging all over the place. 
 
